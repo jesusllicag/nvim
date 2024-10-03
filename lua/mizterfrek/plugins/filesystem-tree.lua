@@ -25,7 +25,14 @@ return {
         width = 30,
       },
       renderer = {
-        group_empty = true,
+        icons = {
+          glyphs = {
+            folder = {
+              arrow_closed = "", -- arrow when folder is closed
+              arrow_open = "", -- arrow when folder is open
+            },
+          },
+        },
       },
       actions = {
         open_file = {
