@@ -1,3 +1,5 @@
+-- Este plugin permite ejecutar los comandos git
+-- También permite ejecutar comandos GIT con keymaps
 return {
   "tpope/vim-fugitive",
   cmd = {"G", "Git"},

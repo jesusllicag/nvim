@@ -2,7 +2,6 @@
 --    CONFIGURACIONES DE NVIM    --
 -- ----------------------------- --
 
-
 -- See all Option Configurations
 -- https://neovim.io/doc/user/options.html
 
